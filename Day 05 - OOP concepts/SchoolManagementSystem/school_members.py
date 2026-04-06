@@ -1,7 +1,6 @@
 print("----members SMS libarary ASSEMBLE----")
 
 
-
 # welcome functionality
 def welcome_message(): # method
     return "------- Welcome to the School Management System Portal -------"
